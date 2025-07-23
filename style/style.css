@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Outfit:wght@100..900&display=swap');
+
+.font-archivo {
+    font-family: "Archivo Black", sans-serif !important;
+}
+
+.font-outfit {
+    font-family: "Outfit", sans-serif !important;
+}
+
+text-hover:hover {
+    color: rgb(224, 30, 30) !important;
+}
